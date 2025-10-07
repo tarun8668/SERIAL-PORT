@@ -1,4 +1,3 @@
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/9f5eca7c-eb4d-4a42-9c9d-9b48cdf89012" />
 # Serial Transfer of Single Byte / Character using 8051 (Keil)
 
 ## AIM
